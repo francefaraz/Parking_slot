@@ -1,0 +1,3 @@
+SELECT * FROM phoneNumbersWHERE ph_no  like('%61%")
+
+it will retirive where the number contains 61
